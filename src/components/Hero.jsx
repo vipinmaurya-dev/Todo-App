@@ -30,7 +30,6 @@ function Hero() {
               {darkMode ? <Sun /> : <Moon />}
             </button>
           </div>
-          <h2>Vipin</h2>
 
           <div className="mt-8 flex items-center gap-5">
             <div className="relative flex w-full items-center">
